@@ -1,0 +1,15 @@
+Project Title: <title>
+<short description>
+
+Technial:
+<technical description: Core functionality, rough design descriptions>
+
+I/Os:
+<List your best guess for required inputs>
+<List your best guess for required outputs>
+
+Hardware Peripherals:
+<List any peripherals you will need.  Say "None" if none needed.>
+
+Module Header: <optional>
+<SV description of your project.  Don't just give us the Tiny Tapeout header>
